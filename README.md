@@ -16,3 +16,4 @@
 
 Les adresses IPs sont stockées dans une base au format arbre pour optimiser le coût de stockage du large nombre de données possibles.
 Un websocket est mis en place pour suivre sans rechargement l'évolution des votes
+API intéressante https://ipinfo.io/pricing
